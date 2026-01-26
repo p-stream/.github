@@ -12,8 +12,7 @@
 <img alt="Discord online members" src="https://img.shields.io/discord/1267558147682205738?color=5865F2&label=Discord&style=for-the-badge" />
 </a>
 <img alt="Commit activity per month" src="https://img.shields.io/github/commit-activity/m/P-Stream/P-Stream?style=for-the-badge" />
-<img alt="List of our Contributors" src="https://img.shields.io/github/contributors/P-Stream/P-Stream?style=for-the-badge&logo=githubsponsors&logoColor=%23EA4AAA&color=%238288FD
-"/>
+
 </p>
 
 
