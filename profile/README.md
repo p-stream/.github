@@ -1,10 +1,15 @@
 <div align="center" markdown="1">
 	<h1>P-Stream</h1>
 	<a href="https://github.com/P-Stream/P-Stream">
-		<img src="https://raw.githubusercontent.com/p-stream/p-stream/refs/heads/production/public/embed-preview.png" alt="P-Stream - Selfhostable streaming web app. " />
+		<img
+			src="https://raw.githubusercontent.com/p-stream/p-stream/refs/heads/production/public/embed-preview.png"
+			alt="P-Stream - Selfhostable streaming web app."
+			width="400"
+		/>
 	</a>
 	<br />
 	<b>Open Source Streaming at your fingertips.</b>
+	<br />
 </div>
 
 <p align="center">
