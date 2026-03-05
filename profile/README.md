@@ -13,16 +13,6 @@
 </div>
 
 <p align="center">
-<a href="https://discord.gg/VZf5Zc2Hx4">
-<img alt="Discord online members" src="https://img.shields.io/discord/1475296443165184091?color=5865F2&label=Discord&style=for-the-badge" />
-</a>
-<img alt="Commit activity per month" src="https://img.shields.io/github/commit-activity/m/P-Stream/P-Stream?style=for-the-badge" />
-
-</p>
-
-
-<p align="center">
-    <a href="https://pstream.mov/"><b>Public Instance</b></a> •
     <a href="https://docs.pstream.mov/self-hosting/hosting-intro"><b>Selfhost</b></a> •
     <a href="https://docs.pstream.mov/"><b>Documentation</b></a>
 </p>
@@ -31,7 +21,7 @@
 | Service                                                                                                   | Description                                                                    | Documentation                                         | Source code                                                             |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------|
 | [P-Stream Desktop App](https://github.com/p-stream/p-stream-desktop/releases)                           | The official desktop application for P-Stream                                 | [Here](https://github.com/p-stream/p-stream-desktop#readme) | [Here](https://github.com/p-stream/p-stream-desktop)                    |
-| [P-Stream](https://pstream.mov)                                                                           | The frontend of P-Stream                                                       | [Here](https://docs.pstream.mov/client/introduction)  | [Here](https://github.com/P-Stream/P-Stream)                            |
+| [P-Stream](https://github.com/p-stream/p-stream)                                                                           | The frontend of P-Stream                                                       | [Here](https://docs.pstream.mov/client/introduction)  | [Here](https://github.com/P-Stream/P-Stream)                            |
 | [Backend](https://backend.pstream.mov)                                                                    | An optional service to sync user data                                          | [Here](https://docs.pstream.mov/backend/introduction) | [Here](https://github.com/P-Stream/backend)                             |
 | Simple Proxy                                                                                              | A lightweight, deployable proxy for bypassing CORs                             | [Here](https://docs.pstream.mov/proxy/introduction)   | [Here](https://github.com/P-Stream/simple-proxy)                        |
 | [Documentation](https://github.com/p-stream/docs)                                                         | Our documentation for the entire P-Stream ecosystem                            | [Here](https://docs.pstream.mov/)                     | [Here](https://github.com/p-stream/docs)                                |
