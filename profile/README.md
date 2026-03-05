@@ -1,5 +1,6 @@
 <div align="center" markdown="1">
 	<h1>P-Stream</h1>
+	<h2>Open Source Streaming</h2>
 	<a href="https://github.com/P-Stream/P-Stream">
 		<img
 			src="https://raw.githubusercontent.com/p-stream/p-stream/refs/heads/production/public/embed-preview.png"
@@ -8,7 +9,6 @@
 		/>
 	</a>
 	<br />
-	<b>Open Source Streaming at your fingertips.</b>
 	<br />
 </div>
 
